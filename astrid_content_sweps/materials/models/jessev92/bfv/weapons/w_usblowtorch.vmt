@@ -1,0 +1,16 @@
+
+VertexLitGeneric
+{
+
+	$basetexture			models/jessev92/bfv/weapons/blowtorch_d
+	$bumpmap 				models/jessev92/bfv/weapons/blowtorch_b
+	
+	$halflambert			1
+	$ambientocclusion		1
+
+	$detail					detail/metal_detail_01
+	$detailscale			4
+	$detailblendfactor		0.65
+	$detailblendmode			0
+	
+}

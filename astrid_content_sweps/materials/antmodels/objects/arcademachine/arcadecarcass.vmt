@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture "antmodels/objects/arcademachine/arcadecarcass"
+	$bumpmap "antmodels/objects/arcademachine/arcadecarcass-bump"
+	$surfaceprop Metal_Box
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.33 0.33 0.33]"
+	$envmapcontrast 0.33
+
+	$selfillum 1
+
+	$model 1
+}

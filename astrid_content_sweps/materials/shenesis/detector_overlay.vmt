@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$basetexture "shenesis/detector_overlay"
+	$translucent "1"
+}

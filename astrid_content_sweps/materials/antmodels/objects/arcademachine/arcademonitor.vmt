@@ -1,0 +1,15 @@
+UnlitGeneric
+{
+	$basetexture "antmodels/objects/arcademachine/arcademonitor"
+	$surfaceprop Glass
+
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedTextureVar $basetexture
+			animatedTextureFrameNumVar $frame
+			animatedTextureFrameRate 1.5
+		}
+	}
+}
